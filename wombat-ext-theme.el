@@ -112,7 +112,7 @@ as well as what was provided with the default wombat color scheme")
 
 
 (custom-theme-set-variables
- 'wombat
+ 'wombat-ext
  '(ansi-color-names-vector ["#242424" "#e5786d" "#95e454" "#cae682"
 			    "#8ac6f2" "#333366" "#ccaa8f" "#f6f3e8"]))
 
