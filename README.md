@@ -9,6 +9,6 @@ and place `wombat-ext-theme.el` inside it.
 2. Add the following to your `.emacs`:
 ```lisp
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
-(load-theme 'zenburn t)
+(load-theme 'wombat-ext t)
 ```
 
