@@ -1,5 +1,5 @@
 ## About
-Wombat-ext is an extension of the wombat emacs theme that is included with emacs 24.3.
+Wombat-ext is an extension of the wombat emacs theme that is included with emacs 24.3 made by Warren Harper 28 warrenharper28.
 
 
 ## Installation
